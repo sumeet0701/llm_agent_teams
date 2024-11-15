@@ -1,0 +1,10 @@
+openai 
+duckduckgo-search 
+duckdb 
+yfinance 
+tantivy 
+pypdf 
+sqlalchemy 
+fastapi[standard] 
+phidata
+groq
